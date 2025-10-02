@@ -1,9 +1,9 @@
 <span>This is a fork of https://github.com/viu-media/viu for the purpose of making changes to the project I find to be important but may run counter to the philosophy of the original project.</span>
-<br />
+<br /><br />
 <span>This is an experimental fork, but I invite constructive discussion as well as submitting issues or pull requests.</span>
-<br />
+<br /><br />
 <span><strong>DO NOT SUBMIT AI BUG REPORTS OR "VIBE CODED" PULL REQUESTS.</strong> While I have no issue with you using AI tools to assist in research/finding a solution, slop will be put where it belongs: in the trash.</span>
-<br />
+<br /><br />
 
 <p align="center">
   <h1 align="center">Viu</h1>

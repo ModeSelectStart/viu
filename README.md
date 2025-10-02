@@ -2,7 +2,7 @@
 <br /><br />
 <span>This is an experimental fork, but I invite constructive discussion as well as submitting issues or pull requests.</span>
 <br /><br />
-<span><strong>DO NOT SUBMIT AI BUG REPORTS OR "VIBE CODED" PULL REQUESTS.</strong> While I have no issue with you using AI tools to assist in research/finding a solution, slop will be put where it belongs: in the trash. I do not have time to chat with an LLM through PR or Issue comments and if you are caught repetedly ignoring this rule <strong>your PRs will be instantly declined</strong></span>
+<span><strong>DO NOT SUBMIT AI BUG REPORTS OR "VIBE CODED" PULL REQUESTS.</strong> While I have no issue with you using AI tools to assist in research/finding a solution, slop will be put where it belongs: in the trash. I do not have time to chat with an LLM through PR or Issue comments and if you are caught repeatedly ignoring this rule <strong>your PRs will be instantly declined</strong></span>
 <br /><br />
 
 <p align="center">

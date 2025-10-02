@@ -1,4 +1,4 @@
-<span align="center">FOREWORD FROM MODE:</span>
+<p align="center">FOREWORD FROM MODE:</p>
 <br /><br />
 <span>This is a fork of https://github.com/viu-media/viu for the purpose of making changes to the project I find to be important but may run counter to the philosophy of the original project.</span>
 <br /><br />

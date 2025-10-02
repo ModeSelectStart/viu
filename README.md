@@ -1,3 +1,5 @@
+<span align="center">FOREWORD FROM MODE:</span>
+<br /><br />
 <span>This is a fork of https://github.com/viu-media/viu for the purpose of making changes to the project I find to be important but may run counter to the philosophy of the original project.</span>
 <br /><br />
 <span>This is an experimental fork, but I invite constructive discussion as well as submitting issues or pull requests.</span>

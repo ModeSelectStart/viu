@@ -17,10 +17,10 @@
 
 [![PyPI - Version](https://img.shields.io/pypi/v/viu-media)](https://pypi.org/project/viu-media/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/viu-media)](https://pypi.org/project/viu-media/)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Benexl/Viu/test.yml?label=Tests)](https://github.com/Benexl/Viu/actions)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ModeSelectStart/Viu/test.yml?label=Tests)](https://github.com/Benexl/Viu/actions)
 [![Discord](https://img.shields.io/discord/1250887070906323096?label=Discord&logo=discord)](https://discord.gg/HBEmAwvbHV)
-[![GitHub Issues](https://img.shields.io/github/issues/Benexl/Viu)](https://github.com/Benexl/Viu/issues)
-[![PyPI - License](https://img.shields.io/pypi/l/viu)](https://github.com/Benexl/Viu/blob/master/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/ModeSelectStart/Viu)](https://github.com/Benexl/Viu/issues)
+[![PyPI - License](https://img.shields.io/pypi/l/viu)](https://github.com/ModeSelectStart/Viu/blob/master/LICENSE)
 
 </div>
 
